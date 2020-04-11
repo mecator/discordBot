@@ -1,0 +1,11 @@
+{
+    "name": "testBot",
+    "version": "1.0.0",
+    "discription": "test bot",
+    "main": "bot.js",
+    "author": "helloWorld487",
+    "dependencies": {
+        "discord.io": "github:woor/discord.io#gateway_v6",
+        "winston": "^3.2.1"
+    }
+}
